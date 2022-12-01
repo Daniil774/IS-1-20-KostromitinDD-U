@@ -1,0 +1,12 @@
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Menu.resources
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Properties.Resources.resources
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.GenerateResource.cache
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Task1.resources
