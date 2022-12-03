@@ -87,7 +87,7 @@ namespace IS_1_20_KostromitinDD_U
             }
             catch
             {
-                MessageBox.Show("Ведите данные");
+                MessageBox.Show("Вы не ввели данные!");
             }
         }
 
@@ -101,7 +101,7 @@ namespace IS_1_20_KostromitinDD_U
             }
             catch
             {
-                MessageBox.Show("Ведите данные");
+                MessageBox.Show("Вы не ввели данные!");
             }
         }
     }

@@ -16,8 +16,7 @@ namespace IS_1_20_KostromitinDD_U
     public partial class Zadanie3 : Form
     {
         MySqlConnection conn;
-        //глобальное обьвление класса подключение
-        Connection mysql;
+        Connection MySQL;
 
         public Zadanie3()
         {
@@ -26,12 +25,9 @@ namespace IS_1_20_KostromitinDD_U
 
         private void Zadanie3_Load(object sender, EventArgs e)
         {
-            mysql = new Connection();//Класс подключения
-            mysql.con();
-            conn = new MySqlConnection(mysql.connStr);
-        }
-        public void select()
-        {
+            MySQL = new Connection();//подключение
+            MySQL.con();
+            conn = new MySqlConnection(MySQL.connStr);
         }
 
             private void button1_Click(object sender, EventArgs e)
@@ -54,7 +50,7 @@ namespace IS_1_20_KostromitinDD_U
                 dataGridView1.Columns["car_color_U"].Width = 100;
                 MySqlCommand command = new MySqlCommand(coooom, conn);
                 MySqlDataReader reader = command.ExecuteReader();
-                while (reader.Read()) //считываение данных из бд
+                while (reader.Read()) //чтение данных из бд
                 {
                     dataGridView1.Rows.Add(reader["id_cl"].ToString(), reader["cl_name_U"].ToString(), reader["fam_U"].ToString(), 
                         reader["id_car_U"].ToString(), reader["car_name_U"].ToString(), reader["car_color_U"].ToString()); 
@@ -72,11 +68,12 @@ namespace IS_1_20_KostromitinDD_U
             }
         }
 
+        //вывод инфы при нажатии на поле в grid
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try
             {
-                if (dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null) //вывод информации при нажатии на поле в datagrid; Т.е возвращает значение(данные) нажатого поля и если не пусто то выводит данные 
+                if (dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null) 
                 {
                     MessageBox.Show(dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString());
                 }

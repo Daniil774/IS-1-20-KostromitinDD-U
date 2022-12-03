@@ -99,3 +99,6 @@ C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS
 C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie3.exe
 C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie3.pdb
 C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie3.exe.config
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie4.exe
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie4.pdb
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Zadanie4.exe.config

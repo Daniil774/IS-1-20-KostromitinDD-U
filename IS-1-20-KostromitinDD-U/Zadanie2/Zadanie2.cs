@@ -20,6 +20,8 @@ namespace IS_1_20_KostromitinDD_U
         }
         public MySqlConnection conn;
         Connection MySql;
+
+        //подключение
         class Connection
         {
             string Host = "chuc.caseum.ru";
