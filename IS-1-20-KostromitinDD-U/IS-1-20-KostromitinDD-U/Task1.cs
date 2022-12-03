@@ -18,14 +18,14 @@ namespace IS_1_20_KostromitinDD_U
         {
             InitializeComponent();
         }
-        hard_drives hdd;
-        Videocard vid;
-        abstract class Accessories
+        hard_drives<int> hdd;
+        Videocard<string> vid;
+        abstract class Accessories<A>
         {
             public int Price;
             public string Years_of_release;
-            public string Articyl;
-            public Accessories(int pr, string yor, string art)
+            public A Articyl;
+            public Accessories(int pr, string yor, A art)
             {
                 Price = pr;
                 Years_of_release = yor;
@@ -36,12 +36,12 @@ namespace IS_1_20_KostromitinDD_U
             }
         }
 
-        class hard_drives : Accessories
+        class hard_drives<A> : Accessories<A>
         {
-            int Turnovers { set; get; }
-            string Interface { set; get; }
-            int Volume { set; get; }
-            public hard_drives(int pr, string yor, string art, int Tu, string In, int Vo) : base(pr, yor, art)
+            int Turnovers { get; set; }
+            string Interface { get; set; }
+            int Volume { get; set; }
+            public hard_drives(int pr, string yor, A art, int Tu, string In, int Vo) : base(pr, yor, art)
             {
                 Turnovers = Tu;
                 Interface = In;
@@ -54,12 +54,12 @@ namespace IS_1_20_KostromitinDD_U
                         $"Количество оборотов:{Turnovers}, Интерфейс:{Interface}, Объем:{Volume}gb");
             }
         }
-        class Videocard : Accessories
+        class Videocard<A> : Accessories<A>
         {
-            int GPU_frequency { set; get; }
-            int Manufacturer { set; get; }
-            int Memory { set; get; }
-            public Videocard(int pr, string yor, string art, int gpu, int man, int mem) : base(pr, yor, art)
+            int GPU_frequency { get; set; }
+            int Manufacturer { get; set; }
+            int Memory { get; set; }
+            public Videocard(int pr, string yor, A art, int gpu, int man, int mem) : base(pr, yor, art)
             {
                 GPU_frequency = gpu;
                 Manufacturer = man;
@@ -81,7 +81,7 @@ namespace IS_1_20_KostromitinDD_U
         {
             try
             {
-                hdd = new hard_drives(Convert.ToInt32(textBox1.Text), textBox2.Text, textBox3.Text, 
+                hdd = new hard_drives<int>(Convert.ToInt32(textBox1.Text), textBox2.Text, Convert.ToInt32(textBox3.Text), 
                     Convert.ToInt32(textBox4.Text), textBox5.Text, Convert.ToInt32(textBox10.Text));
                 listBox1.Items.Add(hdd.Display());
             }
@@ -95,7 +95,7 @@ namespace IS_1_20_KostromitinDD_U
         {
             try
             {
-                vid = new Videocard(Convert.ToInt32(textBox1.Text), textBox2.Text, textBox6.Text, 
+                vid = new Videocard<string>(Convert.ToInt32(textBox1.Text), textBox2.Text, textBox6.Text, 
                     Convert.ToInt32(textBox7.Text), Convert.ToInt32(textBox8.Text), Convert.ToInt32(textBox9.Text));
                 listBox1.Items.Add(vid.Display());
             }

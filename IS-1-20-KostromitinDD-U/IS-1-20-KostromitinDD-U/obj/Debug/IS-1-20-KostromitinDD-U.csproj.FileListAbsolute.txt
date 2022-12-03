@@ -10,3 +10,49 @@ C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебн�
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.exe
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.pdb
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Task1.resources
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe.config
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.AssemblyReference.cache
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Menu.resources
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Properties.Resources.resources
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Task1.resources
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.GenerateResource.cache
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.CoreCompileInputs.cache
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\k36127\Source\Repos\Daniil774\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe.config
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.AssemblyReference.cache
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Menu.resources
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Properties.Resources.resources
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Task1.resources
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.GenerateResource.cache
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.CoreCompileInputs.cache
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.exe
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.pdb
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Google.Protobuf.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\MySql.Data.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Buffers.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Memory.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\ZstdNet.dll
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Google.Protobuf.pdb
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\Google.Protobuf.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\MySql.Data.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Buffers.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Memory.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS_1_20_KostromitinDD_U.Task2.resources
+C:\Users\k36127\Desktop\Учебная практика\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\IS-1-20-KostromitinDD-U\obj\Debug\IS-1-20-KostromitinDD-U.csproj.CopyComplete

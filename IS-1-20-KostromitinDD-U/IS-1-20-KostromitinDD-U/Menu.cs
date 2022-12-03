@@ -22,5 +22,11 @@ namespace IS_1_20_KostromitinDD_U
             Task1 T1 = new Task1();
             T1.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Task2 T2 = new Task2();
+            T2.ShowDialog();
+        }
     }
 }
