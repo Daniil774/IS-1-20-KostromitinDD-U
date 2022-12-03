@@ -1,0 +1,11 @@
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Users\danii\source\repos\IS-1-20-KostromitinDD-U\1\IS-1-20-KostromitinDD-U\Zadanie1\obj\Debug\IS_1_20_KostromitinDD_U.Zadanie1.resources

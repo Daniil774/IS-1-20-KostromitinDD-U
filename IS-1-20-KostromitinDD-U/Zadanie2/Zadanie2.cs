@@ -12,9 +12,9 @@ using MySql.Data.MySqlClient;
 
 namespace IS_1_20_KostromitinDD_U
 {
-    public partial class Task2 : Form
+    public partial class Zadanie2 : Form
     {
-        public Task2()
+        public Zadanie2()
         {
             InitializeComponent();
         }

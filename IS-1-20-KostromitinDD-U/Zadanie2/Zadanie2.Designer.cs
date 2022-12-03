@@ -1,7 +1,7 @@
 ﻿
 namespace IS_1_20_KostromitinDD_U
 {
-    partial class Task2
+    partial class Zadanie2
     {
         /// <summary>
         /// Required designer variable.

@@ -19,14 +19,20 @@ namespace IS_1_20_KostromitinDD_U
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Task1 T1 = new Task1();
-            T1.ShowDialog();
+            Zadanie1 Z1 = new Zadanie1();
+            Z1.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Task2 T2 = new Task2();
-            T2.ShowDialog();
+            Zadanie2 Z2 = new Zadanie2();
+            Z2.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Zadanie3 Z3 = new Zadanie3();
+            Z3.ShowDialog();
         }
     }
 }
