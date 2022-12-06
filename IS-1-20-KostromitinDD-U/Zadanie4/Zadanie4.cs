@@ -9,7 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-using static Zadanie4.Program;
+using MySqlX.XDevAPI;
+using Zadanie4;
 using static Zadanie4.Connection;//ссылка на подключение в библиотеке
 
 
@@ -24,11 +25,24 @@ namespace IS_1_20_KostromitinDD_U
         public MySqlConnection conn;
         Connection MySQL;
 
+        private void zadanie4_Load(object sender, EventArgs e)
+        {
+            //подключение
+            MySQL = new Connection();
+            MySQL.connect();
+            conn = new MySqlConnection(MySQL.ConnStr);
+            //загрузка грида при запуске формы
+            select();
+        }
+
         //заполнение грида
         private void select()
         {
             try
             {
+                MySQL = new Connection();
+                MySQL.connect(); 
+                conn = new MySqlConnection(MySQL.ConnStr);
                 conn.Open();
                 string sql = $"SELECT * FROM t_datatime";
                 dataGridView1.Columns.Add("fio", "ФИО");
@@ -37,7 +51,7 @@ namespace IS_1_20_KostromitinDD_U
                 dataGridView1.Columns["date_of_Birth"].Width = 185;
                 MySqlCommand command = new MySqlCommand(sql, conn);
                 MySqlDataReader reader = command.ExecuteReader();
-                while (reader.Read()) //чтение данных из бд
+                while (reader.Read()) //ридер читает данные из бд
                 {
                     dataGridView1.Rows.Add(reader["fio"].ToString(), reader["date_of_Birth"].ToString());
 
@@ -54,19 +68,16 @@ namespace IS_1_20_KostromitinDD_U
             }
         }
 
-        private void zadanie4_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            //подключение
-            MySQL = new Connection();
-            MySQL.con(); 
-            conn = new MySqlConnection(MySQL.connStr);
-            select(); //загрузка грида
+            select();
         }
 
-        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        //вывод изображения в picturebox1 при нажатии на поле в grid'e
+        private void dataGridView1_CellClick_1(object sender, DataGridViewCellEventArgs e)
         {
             conn.Open();
-            int id = dataGridView1.SelectedCells[0].RowIndex + 1; // Переменная id берёт индекс строки и прибавляет 1
+            int id = dataGridView1.SelectedCells[0].RowIndex + 1; 
             string url = $"SELECT photoUrl FROM t_datatime WHERE id = {id}";
             MySqlCommand com = new MySqlCommand(url, conn);
             string name = com.ExecuteScalar().ToString();
