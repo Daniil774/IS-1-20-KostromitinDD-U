@@ -26,8 +26,8 @@ namespace IS_1_20_KostromitinDD_U
         private void Zadanie3_Load(object sender, EventArgs e)
         {
             MySQL = new Connection();//подключение
-            MySQL.con();
-            conn = new MySqlConnection(MySQL.connStr);
+            MySQL.connect();
+            conn = new MySqlConnection(MySQL.ConnStr);
         }
 
             private void button1_Click(object sender, EventArgs e)
@@ -35,7 +35,7 @@ namespace IS_1_20_KostromitinDD_U
             try
             {
                 conn.Open();
-                string coooom = "SELECT Client_U.id_cl, Client_U.cl_name_U, Client_U.fam_U, Car_U.id_car_U, Car_U.car_name_U, Car_U.car_color_U FROM Client_U INNER JOIN Car_U ON Client_U.id_cl = Client_U.cl_name_U;";// это команда с INNER JOIN 
+                string connStr = "SELECT id_cl, cl_name_U, fam_U, id_car_U, car_name_U, car_color_U FROM Car_U INNER JOIN Client_U ON id_car_U = id_cl ORDER BY id_car_U;";// это команда с INNER JOIN 
                 dataGridView1.Columns.Add("id_cl", "ID Клиента");
                 dataGridView1.Columns["id_cl"].Width = 100;
                 dataGridView1.Columns.Add("cl_name_U", "Имя");
@@ -48,7 +48,7 @@ namespace IS_1_20_KostromitinDD_U
                 dataGridView1.Columns["car_name_U"].Width = 100;
                 dataGridView1.Columns.Add("car_color_U", "цвет авто");
                 dataGridView1.Columns["car_color_U"].Width = 100;
-                MySqlCommand command = new MySqlCommand(coooom, conn);
+                MySqlCommand command = new MySqlCommand(connStr, conn);
                 MySqlDataReader reader = command.ExecuteReader();
                 while (reader.Read()) //чтение данных из бд
                 {
@@ -68,7 +68,7 @@ namespace IS_1_20_KostromitinDD_U
             }
         }
 
-        //вывод инфы при нажатии на поле в grid
+        //вывод при нажатии на поле в grid'e
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try
@@ -80,7 +80,7 @@ namespace IS_1_20_KostromitinDD_U
             }
             catch
             {
-                MessageBox.Show("Нужно выбрать именно запись в datagrid");
+                MessageBox.Show("Вы не выбрали запись в DataGrid");
             }
         }
     }

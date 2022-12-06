@@ -24,15 +24,16 @@ namespace IS_1_20_KostromitinDD_U
         //подключение
         class Connection
         {
+            //public string host = "10.90.12.110"; 
             string Host = "chuc.caseum.ru";
             string Port = "33333";
             string User = "uchebka";
             string DataBase = "uchebka";
             string Password = "uchebka";
-            public string connStr;
-            public string Connect()
+            public string ConnStr;
+            public string connect()// строка подключения
             {
-                return connStr = $"server={Host};Port={Port};User={User};DataBase={DataBase};Password={Password};";
+                return ConnStr = $"server={Host};Port={Port};User={User};DataBase={DataBase};Password={Password};";
             }
         }
 
@@ -41,8 +42,8 @@ namespace IS_1_20_KostromitinDD_U
             try
             {
                 MySql = new Connection();
-                MySql.Connect();
-                conn = new MySqlConnection(MySql.connStr);
+                MySql.connect();
+                conn = new MySqlConnection(MySql.ConnStr);
                 conn.Open();
                 conn.Close();
                 MessageBox.Show("Всё тип топ!");
